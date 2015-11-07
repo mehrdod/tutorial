@@ -15,4 +15,12 @@
 /log/*
 !/log/.keep
 /tmp
-/config/database.yml
+
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
